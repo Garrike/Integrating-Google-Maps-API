@@ -7,17 +7,34 @@ First you need to activate a key on the Google Clouds and Telegram platform. Bel
 
 (IMAGES: Slides 6, 7, 8, 10 and 25)
 
-![alt text](https://help.github.com/assets/images/help/repository/readme-links.png)
+Step 1
+![alt text](https://i.ibb.co/Vv5w2Pc/Passo-1.png)
+
+Step 2
+![alt text](https://i.ibb.co/qR7W7TK/Passo-2.png)
+
+Step 3
+![alt text](https://i.ibb.co/WHc2nFx/Passo-3.png)
+
+Step 4
+![alt text](https://i.ibb.co/cwDcwTG/Passo-5.png)
+
+Step 5 (Tutorial Telegram)
+https://medium.com/@alvaroviebrantz/integrando-arduino-esp8266-com-bots-do-telegram-f5142279c840
 
 Next, install 4 required libraries for the code:
 
 https://github.com/witnessmenow/arduino-google-maps-api
+![alt text](https://i.ibb.co/42zDywS/Untitled.png)
 
 https://github.com/squix78/json-streaming-parser
+![alt text](https://i.ibb.co/GF0kPpy/Untitled2.png)
 
 https://github.com/bblanchon/ArduinoJson
+![alt text](https://i.ibb.co/bmPPRx8/Untitled3.png)
 
 https://github.com/witnessmenow/Universal-Arduino-Telegram-Bot
+![alt text](https://i.ibb.co/SBycyV8/Untitled3-5.png)
 
 Before you run the code, you need to make another change. For my application, I had to save the data permanently, so 
 that I applied to the Google Maps API only once and then could also replace the code made for geolocation by a GPS 
